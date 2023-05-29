@@ -1551,13 +1551,13 @@ body.menu-open {
 .footer .contact-info-holder .contact-info {
     font-family: "Lalezar", cursive;
     color: #fff;
-    font-size: 3.8rem;
+    font-size: 2.8rem;
 }
 
 .footer .contact-info-holder .contact-info a {
     font-family: "Lalezar", cursive;
     color: #fff;
-    font-size: 3.8rem;
+    font-size: 2.8rem;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
@@ -1619,11 +1619,11 @@ body.menu-open {
     }
 
     .footer .contact-info-holder .contact-info, .few-contact .contact-info-holder .contact-info {
-        font-size: 4rem;
+        font-size: 3rem;
     }
 
     .footer .contact-info-holder .contact-info a, .few-contact .contact-info-holder .contact-info a {
-        font-size: 4rem;
+        font-size: 3rem;
     }
 
     .post-box {
@@ -2009,7 +2009,7 @@ body.menu-open {
     }
 
     .main-menu .menu-links ul li a {
-        font-size: 4.8rem;
+        font-size: 4.4rem;
         line-height: 3rem;
     }
 
@@ -2077,12 +2077,12 @@ body.menu-open {
     }
 
     .footer .contact-info-holder .contact-info {
-        font-size: 2.2rem;
+        font-size: 1.4rem;
         margin-bottom: 3rem;
     }
 
     .footer .contact-info-holder .contact-info a {
-        font-size: 2.2rem;
+        font-size: 1.4rem;
     }
 
     .footer .contact-info-holder .social-media .social-link-holder a {
@@ -2306,7 +2306,7 @@ body.menu-open {
     }
 
     .main-menu .menu-links ul li a {
-        font-size: 4.8rem;
+        font-size: 3.8rem;
         line-height: 3rem;
     }
 
